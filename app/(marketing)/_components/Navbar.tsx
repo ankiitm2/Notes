@@ -1,5 +1,5 @@
 "use client";
-import useScrollTop from "@/hooks/use-top-scroll";
+import { useScrollTop } from "@/hooks/use-top-scroll";
 import { cn } from "@/lib/utils";
 
 export const Navbar = () => {
